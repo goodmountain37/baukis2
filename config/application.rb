@@ -17,7 +17,7 @@ module Baukis2
       g.skip_routes true
       g.helper false
       g.asetts false
-      g.test_framework :respec
+      g.test_framework :rspec
       g.controller_specs false
       g.view_specs false
     end
